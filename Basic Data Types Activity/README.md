@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+For this assignment, you’ll create a short story in VS Code. You’ll create variables to represent different elements of the story. The program should include the following basic data type variables: 1 array, 1 boolean, 3 integers, and 4 strings. To add more details to your story, you can create more variables as you develop the program. Once you have completed your program, you can copy and paste your code to JavaScript Tutor (Links to an external site.) to see how the variables are being stored in memory.

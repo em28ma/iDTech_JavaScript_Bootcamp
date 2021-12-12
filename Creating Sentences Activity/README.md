@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+For this assignment, you’ll create a program that turns array elements into a sentence. You should create a function that takes an array of words, as an argument. Your function should loop through the array and add each element into an empty string. The function should return a sentence as its final output. To make this program, you’ll use your programming skills to create an array, declare a function, and use a for loop.
